@@ -28,3 +28,8 @@ footer{
 	text-indent: 0;
 }
 /* End poetry */
+
+b{
+	font-weight: normal;
+	font-variant: small-caps;
+}
